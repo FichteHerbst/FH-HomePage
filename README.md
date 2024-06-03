@@ -10,18 +10,6 @@
 
 在index.html中找到以下代码，替换其中的图片链接即可，  
 默认为图片背景也可跟换为渐变背景删除注释 **"/*"** **"*/"** 即可  
-**如：**  
-```
-被注释中为
-/* 蓝绿色渐变背景 */
-/* background-image: linear-gradient(25deg, #84bfd1 40%, #7ce67c);*/
-
-删除注释后
-/* 蓝绿色渐变背景 */
-background-image: linear-gradient(25deg, #84bfd1 40%, #7ce67c);
-```
-
-
 ```
 <style>
 body {
