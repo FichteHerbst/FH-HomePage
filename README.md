@@ -125,7 +125,7 @@ refresh_blog_running_time();
 <https://aplayer.js.org/>
 
 ### 版权声明
-原始模板来源：<https://www.bilibili.com/read/cv29030614/?spm_id_from=333.999.0.0>
+参考模板来源：<https://www.bilibili.com/read/cv29030614/?spm_id_from=333.999.0.0>
 
 
 
