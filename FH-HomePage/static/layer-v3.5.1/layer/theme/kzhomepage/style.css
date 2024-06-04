@@ -1,0 +1,12 @@
+body .layer-ext-kisou .layui-layer-title{
+    color: transparent;
+    border: 0px;
+    display: none;
+}
+body .layui-ext-kisou .layui-layer-btn{}
+body .layui-ext-kisou .layui-layer-btn a{}
+.layer-ext-kisou{
+    background-color: transparent;
+    box-shadow: none;
+    border: none;
+}
