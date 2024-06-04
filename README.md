@@ -4,6 +4,9 @@
 ## 预览
 ![screenshot-1717430887169](https://github.com/FichteHerbst/FH-HomePage/assets/144253610/308f28f4-c24f-47f5-af5b-256d872d8297)
 
+## 项目演示
+### 点击跳转 [演示](http://home.kisou.top/)
+
 ## 使用文档
 
 ### 背景/图片更换
