@@ -65,7 +65,7 @@ Primary Secondary Success Danger Warning Info Light Dark
 >导航按钮依赖kisou-nav-btn类，删除后按钮功能将会失效  
 >此处的data-href= **"链接"** 跟换为自己的链接  
 
-```javascript
+```html
 <button data-href="链接" data-title="Blog" data-window="pop" data-anim="4"
 data-area-w="80%" data-area-h="90%" data-shade="false"
 class="spacing-button kisou-nav-btn btn btn-primary col-lg-4">按钮</button>
